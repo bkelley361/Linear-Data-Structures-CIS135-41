@@ -1,0 +1,13 @@
+C:\Users\benke\source\repos\Linear Data Structures - Ben Kelley\Linear Data Structures - Ben Kelley\bin\Debug\netcoreapp3.1\Linear Data Structures - Ben Kelley.exe
+C:\Users\benke\source\repos\Linear Data Structures - Ben Kelley\Linear Data Structures - Ben Kelley\bin\Debug\netcoreapp3.1\Linear Data Structures - Ben Kelley.deps.json
+C:\Users\benke\source\repos\Linear Data Structures - Ben Kelley\Linear Data Structures - Ben Kelley\bin\Debug\netcoreapp3.1\Linear Data Structures - Ben Kelley.runtimeconfig.json
+C:\Users\benke\source\repos\Linear Data Structures - Ben Kelley\Linear Data Structures - Ben Kelley\bin\Debug\netcoreapp3.1\Linear Data Structures - Ben Kelley.runtimeconfig.dev.json
+C:\Users\benke\source\repos\Linear Data Structures - Ben Kelley\Linear Data Structures - Ben Kelley\bin\Debug\netcoreapp3.1\Linear Data Structures - Ben Kelley.dll
+C:\Users\benke\source\repos\Linear Data Structures - Ben Kelley\Linear Data Structures - Ben Kelley\bin\Debug\netcoreapp3.1\Linear Data Structures - Ben Kelley.pdb
+C:\Users\benke\source\repos\Linear Data Structures - Ben Kelley\Linear Data Structures - Ben Kelley\obj\Debug\netcoreapp3.1\Linear Data Structures - Ben Kelley.csprojAssemblyReference.cache
+C:\Users\benke\source\repos\Linear Data Structures - Ben Kelley\Linear Data Structures - Ben Kelley\obj\Debug\netcoreapp3.1\Linear Data Structures - Ben Kelley.AssemblyInfoInputs.cache
+C:\Users\benke\source\repos\Linear Data Structures - Ben Kelley\Linear Data Structures - Ben Kelley\obj\Debug\netcoreapp3.1\Linear Data Structures - Ben Kelley.AssemblyInfo.cs
+C:\Users\benke\source\repos\Linear Data Structures - Ben Kelley\Linear Data Structures - Ben Kelley\obj\Debug\netcoreapp3.1\Linear Data Structures - Ben Kelley.csproj.CoreCompileInputs.cache
+C:\Users\benke\source\repos\Linear Data Structures - Ben Kelley\Linear Data Structures - Ben Kelley\obj\Debug\netcoreapp3.1\Linear Data Structures - Ben Kelley.dll
+C:\Users\benke\source\repos\Linear Data Structures - Ben Kelley\Linear Data Structures - Ben Kelley\obj\Debug\netcoreapp3.1\Linear Data Structures - Ben Kelley.pdb
+C:\Users\benke\source\repos\Linear Data Structures - Ben Kelley\Linear Data Structures - Ben Kelley\obj\Debug\netcoreapp3.1\Linear Data Structures - Ben Kelley.genruntimeconfig.cache
